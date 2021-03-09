@@ -1,7 +1,7 @@
 # nodejs
 
 
-## 노드 mong
+## 노드 mongodb 연결
 
 0) 윈도우 노드js 
 https://www.ucert.co.kr/wiki/w/%EC%9C%88%EB%8F%84%EC%9A%B0_node_js_%EC%84%A4%EC%B9%98#.ED.99.95.EC.9D.B8_.EC.82.AC.ED.95.AD  
@@ -246,3 +246,12 @@ PS C:\Users\###\Desktop\node\boiler_plate> npm run start
 Example app listening on port 5000
 (node:6596) DeprecationWarning: Listening to events on the Db class has been deprecated and will be removed in the next major version.
 MongoDB Connected...
+
+
+
+
+## git 연동
+https://sidorl.tistory.com/52  로컬 git 저장소와 github연동을 위해 ssh(secure shell) 필요
+https://syung05.tistory.com/20 
+https://gentlesark.tistory.com/65
+
