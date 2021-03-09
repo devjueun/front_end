@@ -1,0 +1,29 @@
+{
+  "name": "boiler_plate",
+  "version": "1.0.0",
+  "description": "npm first test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjueun/nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "test"
+  ],
+  "author": "April",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devjueun/nodejs/issues"
+  },
+  "homepage": "https://github.com/devjueun/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.19"
+  }
+}
